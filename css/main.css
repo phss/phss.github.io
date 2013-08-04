@@ -32,3 +32,23 @@ a {
   -webkit-border-radius: 50%;
 }
 
+#contact {
+}
+
+.btn-contact {
+  border-style: none;
+  background-color: #86C270; 
+}
+
+.btn-contact:hover {
+  background-color: #6EB654; 
+}
+
+.btn-contact a {
+  color: #555;
+  font-weight: lighter;
+}
+
+.btn-contact a:hover {
+  text-decoration: none;
+}
