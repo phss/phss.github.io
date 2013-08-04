@@ -1,0 +1,4 @@
+*.swp
+Vagrantfile
+.vagrant
+_site
